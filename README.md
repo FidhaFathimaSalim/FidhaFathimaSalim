@@ -1,5 +1,6 @@
 - 👋 Hi Everyone, I’m FidhaFathimaSalim
-- 👀 I’m interested in full stack development.i am more interested in teaching field.
+- 👀 I’m interested in full stack development.
+- i am more interested in teaching field.
 - 🌱 I’m currently learning data science
   I am passionate  on HTML,CSS,Python,django
 
